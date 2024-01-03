@@ -66,7 +66,7 @@ OpenShit/Istio · Docker · IBM Cloud · Kubernetes . DevOps
         kubectl port-forward deployment.apps/guestbook 3000:3000
 
 10. 
-    ![image info](resources/SN lab.jpg)
+    ![image info](resources/app.jpg)
 ####  Autoscale the Guestbook application using Horizontal Pod Autoscaler
 1. Autoscale the Guestbook deployment using `kubectl autoscale deployment`
 2. Check the current status of the newly-made HorizontalPodAutoscaler
